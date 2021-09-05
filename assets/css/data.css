@@ -1,0 +1,9 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #222222;
+    --primary-color: #ff385c;
+}
+a{
+    text-decoration: none !important;
+}
