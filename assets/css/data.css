@@ -7,3 +7,28 @@
 a{
     text-decoration: none !important;
 }
+html {
+    /* trick  */
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+.underline {
+    text-decoration: none;
+}
+
+.underline:hover {
+    opacity: 0.8;
+}
+
+.icons__social {
+    font-size: 1.4rem;
+    padding: 1.4rem;
+    color: #fff;
+}
+
+.app {
+    overflow: hidden;
+}
+/* repontsive */
