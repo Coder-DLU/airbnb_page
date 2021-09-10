@@ -233,7 +233,6 @@
     color: var(--white-color);
     display: flex;
     text-align: center;
-  
 }
 .img_logo {
     margin-top: 10px;
@@ -723,6 +722,7 @@
     height: 400px;
     top: 30px;
     position: relative;
+    left: 0;
     border-radius: 20px;
     background-image: url(https://a0.muscache.com/im/pictures/5b4dc94a-0b4c-4c27-b50f-9c5a5b93c775.jpg?im_w=1440) ;
     background-position: right top;
@@ -785,7 +785,6 @@
 .container_experience-item{
     width: 350px;
     height: 350px;
-    background-color: #01a717;
     border-radius: 5px;
     overflow: hidden;
 }
